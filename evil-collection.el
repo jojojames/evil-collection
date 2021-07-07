@@ -220,6 +220,7 @@ This will bind additional find-* type commands, e.g. usages, assignments, etc.."
     mpdel
     mu4e
     mu4e-conversation
+    mu4e-views
     neotree
     newsticker
     notmuch
